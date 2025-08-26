@@ -21,5 +21,5 @@ The design includes:
 * **Shop Page** – Merchandise showcase
 * **Fan Zone** – Community & engagement section
 
-## 🎥 Demo / Preview : [![RCB Website]: (https://www.figma.com/proto/vk6604RFMIqr1xXhmDoDkZ/shadowfox?page-id=39%3A87&node-id=39-88&p=f&viewport=329%2C-1706%2C0.33&t=6wtDMKWUBAEdFicL-1&scaling=scale-down-width&content-scaling=fixed)](#)
+## 🎥 Demo / Preview :  https://www.figma.com/proto/vk6604RFMIqr1xXhmDoDkZ/shadowfox?page-id=39%3A87&node-id=39-88&p=f&viewport=329%2C-1706%2C0.33&t=6wtDMKWUBAEdFicL-1&scaling=scale-down-width&content-scaling=fixed
 
